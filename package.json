@@ -2,6 +2,7 @@
   "name": "sky-hair-academy",
   "version": "1.0.0",
   "description": "Premium Hair Styling Academy Website",
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -15,7 +16,7 @@
     "framer-motion": "^11.0.0",
     "clsx": "^2.0.0",
     "class-variance-authority": "^0.7.0",
-    "lucide-react": "^0.383.0"
+    "lucide-react": "^0.525.0"
   },
   "devDependencies": {
     "typescript": "^5.3.0",
