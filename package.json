@@ -2,7 +2,7 @@
   "name": "sky-hair-academy",
   "version": "1.0.0",
   "description": "Premium Hair Styling Academy Website",
-  "type": "module",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
